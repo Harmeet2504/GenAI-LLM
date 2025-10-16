@@ -4,7 +4,7 @@ Protein language models (PLMs) are powerful tools for understanding and designin
 
 Selection of specific model:
 In protein language models (PLMs) like ESM-2, specific versions of the trained model that vary in size, complexity, and computational requirements are referred to as checkpoints. Each checkpoint has a different number of layers and parameters, which affect the model's performance, accuracy, and speed. Here's a breakdown of what these mean:
-1. Checkpoint Name
+1. Checkpoint Name:
 Each checkpoint in ESM-2 follows a naming convention:
 - esm2_tX_YB_UR50D
 - X = Number of layers (depth of the model).
